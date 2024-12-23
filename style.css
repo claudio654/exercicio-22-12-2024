@@ -1,0 +1,25 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.cont{
+    display: flex;
+    align-content: flex-start;
+    height: 800px;
+    width: 800px;
+    background-color: blue;
+}
+
+.um{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+
+.dois{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(162, 84, 235);
+}
